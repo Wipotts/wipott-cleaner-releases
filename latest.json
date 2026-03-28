@@ -1,27 +1,27 @@
 {
-  "version": "2.2.2",
+  "version": "2.2.3",
   "notes": "See [CHANGELOG.md](https://github.com/Wipotts/wipott-cleaner-desktop/blob/main/CHANGELOG.md) for details.",
-  "pub_date": "2026-03-28T16:51:02.264Z",
+  "pub_date": "2026-03-28T17:16:52.823Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSXptQ2ZMYjFhcDMzcHROdXRjOCt4ajk0ZTJZYW1Cb0tWTmNxQ2IxK2M3cUp5NWNoTDhRYzlWc3FwczMxYm5OeDB0K2lqY3dZaStHTTJSb2xaWW4vRWIwTy92a2pnN0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NzE2MDA5CWZpbGU6V2lwb3R0LUNsZWFuZXIuYXBwLnRhci5nego5RitFMFJ4citHUVNmZDRSMmtrWFF0S1p3V2tRYUNSam9OQUY3SEJwbDJUcjNpUytBL3BPWG9mTjQ3SHhBQ2VYUFdIZURySkhWakJkcUJqZkdVNU9BQT09Cg==",
-      "url": "https://github.com/Wipotts/wipott-cleaner-desktop/releases/download/v2.2.2/Wipott-Cleaner_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSXptQ2ZMYjFhcC9qaUdnejRlekNqdnBEWTZkZ2tMVnFhcXJVdDZEa3pqTHV2czFvemRaZVhOSnUva2ZYczU4VUpGZ2ZIL05UTUZOVFR6Nk9PVm1LWGxFM2NpV1d4dncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NzE3NTg5CWZpbGU6V2lwb3R0LUNsZWFuZXIuYXBwLnRhci5negprN2VhWlRraU9NdWl5V1VuUjYwREZXMFlJb2toQXJsa1k4VzFQejhEYmhFdVRaWnlhZ3htQXh0MlNPUjRPRnlpVml4SnZ1T29zU1FvdE00U1dGWGRCQT09Cg==",
+      "url": "https://github.com/Wipotts/wipott-cleaner-desktop/releases/download/v2.2.3/Wipott-Cleaner_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSXptQ2ZMYjFhcDMzcHROdXRjOCt4ajk0ZTJZYW1Cb0tWTmNxQ2IxK2M3cUp5NWNoTDhRYzlWc3FwczMxYm5OeDB0K2lqY3dZaStHTTJSb2xaWW4vRWIwTy92a2pnN0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NzE2MDA5CWZpbGU6V2lwb3R0LUNsZWFuZXIuYXBwLnRhci5nego5RitFMFJ4citHUVNmZDRSMmtrWFF0S1p3V2tRYUNSam9OQUY3SEJwbDJUcjNpUytBL3BPWG9mTjQ3SHhBQ2VYUFdIZURySkhWakJkcUJqZkdVNU9BQT09Cg==",
-      "url": "https://github.com/Wipotts/wipott-cleaner-desktop/releases/download/v2.2.2/Wipott-Cleaner_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSXptQ2ZMYjFhcC9qaUdnejRlekNqdnBEWTZkZ2tMVnFhcXJVdDZEa3pqTHV2czFvemRaZVhOSnUva2ZYczU4VUpGZ2ZIL05UTUZOVFR6Nk9PVm1LWGxFM2NpV1d4dncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NzE3NTg5CWZpbGU6V2lwb3R0LUNsZWFuZXIuYXBwLnRhci5negprN2VhWlRraU9NdWl5V1VuUjYwREZXMFlJb2toQXJsa1k4VzFQejhEYmhFdVRaWnlhZ3htQXh0MlNPUjRPRnlpVml4SnZ1T29zU1FvdE00U1dGWGRCQT09Cg==",
+      "url": "https://github.com/Wipotts/wipott-cleaner-desktop/releases/download/v2.2.3/Wipott-Cleaner_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSXptQ2ZMYjFhcDBPM1k0emdkdWhFaTE5ZUVzMXc3bjV4QjkrTWFNMlFWbys5YUdTRDRoTmFBSHZTTmUzWEZGWDRiVzZiZ2VEKy9GZjdhUkwxeHg1aUdxdnJINDhYRlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NzE2NjU1CWZpbGU6V2lwb3R0LUNsZWFuZXJfMi4yLjJfeDY0X2VuLVVTLm1zaS56aXAKSXBVYlN4Y3ZjbWxiYVUyRTdZWVFKVE5mZGU5VGlBS0VyV0RhQURoWm1CdmpGdHM5ckVObXpVUWw3OWxuYysrUDhpZE1OYm5hYTV3SlRIOGpYa3dMQkE9PQo=",
-      "url": "https://github.com/Wipotts/wipott-cleaner-desktop/releases/download/v2.2.2/Wipott-Cleaner_2.2.2_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSXptQ2ZMYjFhcDk3MWY0eTYvKzNQS1ExNUV0VThLTWxiZ3BVeTFLTDkvbng3NHFFK2pCaHhxV1g2cW44emo0Sm5lWDJDdXhudzJDdVRoek9OVEJ6OGhoT1dIcFh5bWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NzE4MjA2CWZpbGU6V2lwb3R0LUNsZWFuZXJfMi4yLjNfeDY0X2VuLVVTLm1zaS56aXAKdkZPUEdXTzhTcXh5V051VEVHRUNac3p2a24wNzJheUt4M0h3enc3TFg0eUtGQlMwU0I5VExGclZCeXdVQ1V0bEhjREpVcjk5MVFHK2ZqZUgzMHpMRGc9PQo=",
+      "url": "https://github.com/Wipotts/wipott-cleaner-desktop/releases/download/v2.2.3/Wipott-Cleaner_2.2.3_x64_en-US.msi.zip"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSXptQ2ZMYjFhcDBPM1k0emdkdWhFaTE5ZUVzMXc3bjV4QjkrTWFNMlFWbys5YUdTRDRoTmFBSHZTTmUzWEZGWDRiVzZiZ2VEKy9GZjdhUkwxeHg1aUdxdnJINDhYRlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NzE2NjU1CWZpbGU6V2lwb3R0LUNsZWFuZXJfMi4yLjJfeDY0X2VuLVVTLm1zaS56aXAKSXBVYlN4Y3ZjbWxiYVUyRTdZWVFKVE5mZGU5VGlBS0VyV0RhQURoWm1CdmpGdHM5ckVObXpVUWw3OWxuYysrUDhpZE1OYm5hYTV3SlRIOGpYa3dMQkE9PQo=",
-      "url": "https://github.com/Wipotts/wipott-cleaner-desktop/releases/download/v2.2.2/Wipott-Cleaner_2.2.2_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSXptQ2ZMYjFhcDk3MWY0eTYvKzNQS1ExNUV0VThLTWxiZ3BVeTFLTDkvbng3NHFFK2pCaHhxV1g2cW44emo0Sm5lWDJDdXhudzJDdVRoek9OVEJ6OGhoT1dIcFh5bWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NzE4MjA2CWZpbGU6V2lwb3R0LUNsZWFuZXJfMi4yLjNfeDY0X2VuLVVTLm1zaS56aXAKdkZPUEdXTzhTcXh5V051VEVHRUNac3p2a24wNzJheUt4M0h3enc3TFg0eUtGQlMwU0I5VExGclZCeXdVQ1V0bEhjREpVcjk5MVFHK2ZqZUgzMHpMRGc9PQo=",
+      "url": "https://github.com/Wipotts/wipott-cleaner-desktop/releases/download/v2.2.3/Wipott-Cleaner_2.2.3_x64_en-US.msi.zip"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSXptQ2ZMYjFhcDMxWHJtcWRTeUJSTnZWVzhOTFVweVVaRTRPL2U2bE80M010UDNTekk0ZmRRM0EzRHhzNmVTczB1SFIxbzFBVEVCYm9VdW9pQ2Z3NWg1bnRFaDBRY3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NzE2NjU1CWZpbGU6V2lwb3R0LUNsZWFuZXJfMi4yLjJfeDY0LXNldHVwLm5zaXMuemlwCkxsMVZHYzUzRGlqVFlyUk8vYW9HRllhUTNaTEJGUXBhMmFaRDl6MVlpQWQ4NEtXbVhuaUtLVkdmQmRGV01kMjdaTWZYaTJpMWxWaG9XaGJDMnlTR0RBPT0K",
-      "url": "https://github.com/Wipotts/wipott-cleaner-desktop/releases/download/v2.2.2/Wipott-Cleaner_2.2.2_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSXptQ2ZMYjFhcCtGUzFVaERpS2NpRFg5b1h0ZVU3bWtnSnY1dHBWeC94WEZTQzZSdmNHQ3JpTW1uTVhaemlZUEN5UjJpdUNVazFVMW83dGhMUkk3Ry9PMlRzRGNVNmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NzE4MjA2CWZpbGU6V2lwb3R0LUNsZWFuZXJfMi4yLjNfeDY0LXNldHVwLm5zaXMuemlwCjVOYldycGY1Vm5Yem9icnpUak0xQ29oSlRiN0hsS3psUVBoemlYSnl2N05tUFF1cXlLY1BsQS9GY2R3alJOMEFyWDZEWFFqdDBGYW9vQ0JTakpYa0RBPT0K",
+      "url": "https://github.com/Wipotts/wipott-cleaner-desktop/releases/download/v2.2.3/Wipott-Cleaner_2.2.3_x64-setup.nsis.zip"
     }
   }
 }
